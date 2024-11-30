@@ -2,8 +2,8 @@
 <p>Welcome to the <strong>GAN-Based Recommender</strong>, a cutting-edge system that combines <em>recommendation</em> and <em>style transfer</em> to deliver a premium user experience! 🎉</p>
 <p>✨ <strong>Highlights:</strong></p>
 <ul>
-  <li>🔬 Published at the <strong>2024 ISRS Conference</strong>.</li>
-  <li>🌍 Presented at the prestigious <strong>TGIS Conference</strong>.</li>
+  <li>🔬 Published at the <strong>2024 ISRS Conference</strong>. <a href='https://sites.google.com/view/2024isrs/home?authuser=0'>Link to the ISRS website.</a></li>
+  <li>🌍 Presented at the prestigious <strong>TGIS Conference</strong>. <a href='https://tgis2024.rchss.sinica.edu.tw/site/page.aspx?pid=901&sid=1553&lang=cht'>Link to the TGIS website.</a></li>
 </ul>
 <p>This system focuses on recommending attractions in Japan 🗾. With further tuning, it can be adapted for recommendations worldwide 🌎!</p>
 <p>🎥 <a href='https://www.youtube.com/watch?v=Fna5Wu2S6pc'>Watch the Explanation Video</a></p>
