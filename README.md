@@ -47,4 +47,14 @@
 
 <hr>
 
+<h2>📞 Contact</h2>
+
+<p>Feel free to reach out if you have any questions or need assistance:</p>
+
+<ul>
+  <li>📧 Email: yessir0621@gmail.com</li>
+  <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/an-syu-li-10897a273/">An-Syu Li</a></li>
+</ul>
+
+<hr>
 <p>💡 <em>With the GAN-Based Recommender, the possibilities are endless! Start exploring today. 🚀</em></p>
