@@ -35,6 +35,7 @@
 <hr>
 
 <h2>⚙️ Installation</h2>
+<strong>You may have to install tensorflow and pytorch manually and conflicts between them may happen.</strong>
 <h3>🖥️ Step 1: Install System Dependencies</h3>
 <p>For Linux/Ubuntu, install the required <code>python3-tk</code> dependency:</p>
 <pre><code>sudo apt install python3-tk</code></pre>
