@@ -9,7 +9,6 @@ from keras import layers
 
 import tensorflow_addons as tfa
 
-autotune = tf.data.AUTOTUNE
 
 import tensorflow as tf
 import matplotlib.pyplot as plt

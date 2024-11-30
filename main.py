@@ -6,9 +6,11 @@ import ast
 from utility.utility import get_model, loadImages
 import pickle
 from tk_module.tkapp import SpotApp
-
+import os
 
 if __name__ == "__main__":
+    os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
+
     spot_df = pd.read_csv('./data/coordinates.csv')
     name_to_net_dict = {}
     for idx, row in spot_df.iterrows():
