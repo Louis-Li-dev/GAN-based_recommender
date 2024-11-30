@@ -1,3 +1,4 @@
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 <h1>🌟 GAN-Based Recommender System 🌟</h1>
 <p>Welcome to the <strong>GAN-Based Recommender</strong>, a cutting-edge system that combines <em>recommendation</em> and <em>style transfer</em> to deliver a premium user experience! 🎉</p>
 <p>✨ <strong>Highlights:</strong></p>
