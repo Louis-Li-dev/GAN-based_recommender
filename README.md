@@ -4,7 +4,7 @@
 <p>✨ <strong>Highlights:</strong></p>
 <ul>
   <li>🔬 Published at the <strong>2024 ISRS Conference</strong>. <a href='https://sites.google.com/view/2024isrs/home?authuser=0'>Link to the ISRS website.</a></li>
-  <li>🌍 Presented at the prestigious <strong>TGIS Conference</strong>. <a href='https://gis.rchss.sinica.edu.tw/documents/TGIS2024_Proceedings.pdf'>Link to the TGIS paper compilation</a> named "利用深度生成式神經網路實現旅遊推薦系統"</li>
+  <li>🌍 Presented at the <strong>TGIS Conference</strong>. <a href='https://gis.rchss.sinica.edu.tw/documents/TGIS2024_Proceedings.pdf'>Link to the TGIS paper compilation</a> named <strong>"利用深度生成式神經網路實現旅遊推薦系統"</strong></li>
 </ul>
 <p>This system focuses on recommending attractions in Japan 🗾. With further tuning, it can be adapted for recommendations worldwide 🌎!</p>
 <p>🎥 <a href='https://www.youtube.com/watch?v=Fna5Wu2S6pc'>Watch the Explanation Video</a></p>
